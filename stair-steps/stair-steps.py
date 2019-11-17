@@ -10,3 +10,4 @@ def fun(n,steps):
 
 
 print(fun(4,[1,2]))
+print(fun(3,[1,2,3]))
