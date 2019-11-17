@@ -21,8 +21,8 @@ class Solution:
     result = head = ListNode(sum % 10) # since head needs to be assigned a value once
     sum = sum/10
     while sum > 0:
-      s = sum%10
-      sum = sum/10
+      s = int(sum%10)
+      sum = int(sum/10)
       result.next = ListNode(s)
       result = result.next
     return head
