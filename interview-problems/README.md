@@ -13,3 +13,8 @@ Given a string, find the length of the longest substring without repeating chara
 ####  longest-palindromic-substring
 
 A palindrome is a sequence of characters that reads the same backwards and forwards. Given a string, s, find the longest palindromic substring in s.
+
+
+####  validate-balanced-parentheses
+
+Every opening bracket must have a corresponding closing bracket. Given a string containing just the characters '(', ')', '{', '}', '[' and ']'.
