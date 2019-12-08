@@ -4,6 +4,8 @@ class Solution:
       print('hi')
         
 # Test program
-s = "tracecars"
+s = "banana"
+# "million"
+# https://en.wikipedia.org/wiki/Longest_palindromic_substring
 print(str(Solution().longestPalindrome(s)))
 # racecar

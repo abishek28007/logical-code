@@ -18,3 +18,7 @@ A palindrome is a sequence of characters that reads the same backwards and forwa
 ####  validate-balanced-parentheses
 
 Every opening bracket must have a corresponding closing bracket. Given a string containing just the characters '(', ')', '{', '}', '[' and ']'.
+
+####  duplicate-in-sorted-array
+
+Given a sorted array, with possibly duplicated elements, find the indices of the first and last occurrences of a target element.
