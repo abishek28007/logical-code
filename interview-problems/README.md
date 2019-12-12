@@ -22,3 +22,7 @@ Every opening bracket must have a corresponding closing bracket. Given a string 
 ####  duplicate-in-sorted-array
 
 Given a sorted array, with possibly duplicated elements, find the indices of the first and last occurrences of a target element.
+
+####  reverse-linked-list
+
+Given a linked list, reverse it.
