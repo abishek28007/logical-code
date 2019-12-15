@@ -22,7 +22,6 @@ class ListNode(object):
       current.next = prev
       prev = current
       current = next
-    # Implement this.
 
   # Recursive Solution      
   def reverseRecursively(self, head):

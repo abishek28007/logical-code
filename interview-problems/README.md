@@ -26,3 +26,7 @@ Given a sorted array, with possibly duplicated elements, find the indices of the
 ####  reverse-linked-list
 
 Given a linked list, reverse it.
+
+####  sort-3-unique-number
+
+Given a list of numbers with only 3 unique numbers (1, 2, 3), sort the list in O(n) time.
