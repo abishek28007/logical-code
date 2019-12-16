@@ -30,3 +30,7 @@ Given a linked list, reverse it.
 ####  sort-3-unique-number
 
 Given a list of numbers with only 3 unique numbers (1, 2, 3), sort the list in O(n) time.
+
+####  two-sum
+
+You are given a list of numbers, and a target number k. Return whether or not there are two numbers in the list that add up to k, do it in a single pass of the list.
