@@ -2,6 +2,7 @@ def two_sum(list, k):
   list.sort()
   rhs = len(list)-1
   lhs = 0
+  # sort the array and them walk inward
   while lhs < rhs:
     if k == list[lhs]+list[rhs]:
       return True
