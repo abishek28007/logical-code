@@ -42,3 +42,11 @@ Given a list of numbers, where every number shows up twice except for one number
 ####  non-decreasing-array
 
 Given an array of integers in an arbitrary order. Return whether or not it is possible to make the array non-decreasing by modifying at most 1 element to any value.
+
+####  sum-sub-array
+
+Given an array write an algorithm to find the sum of all the possible sub-arrays.
+
+####  print-all-diagonal
+
+Print All Diagonals of a given matrix
