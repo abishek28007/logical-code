@@ -50,3 +50,7 @@ Given an array write an algorithm to find the sum of all the possible sub-arrays
 ####  print-all-diagonal
 
 Print All Diagonals of a given matrix
+
+####  latest-version
+
+Given two versions, write an algorithm to find out which version is the latest.
