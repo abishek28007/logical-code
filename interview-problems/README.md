@@ -54,3 +54,7 @@ Print All Diagonals of a given matrix
 ####  latest-version
 
 Given two versions, write an algorithm to find out which version is the latest.
+
+####  sum-digits-number 
+
+Given a number, Write a program to get the sum of digits in a number till it become a single digit
